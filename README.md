@@ -1,5 +1,6 @@
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/bccf2e31-15ba-46e2-991a-24179ba2ae5c" />
+
 c programing notes and codes------>
-https://icons8.com/icon/40670/c-programming
 
 
 
