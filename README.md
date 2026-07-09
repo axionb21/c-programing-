@@ -5,11 +5,11 @@
 
 c-codes-all of the codes / -notes all of the codes notes 
 
--learning **C** for understaning the paylodes or c codes in cyber security.</br>
--used for hardware programing  .
+- learning **C** for understaning the paylodes or c codes in cyber security.</br>
+- used for hardware programing  .
 
 ## what is **C** ? 
-### its a programing language also called as computer programing launguage thet the computer understands (**English is used for conversation**) like that the programing launguage is use to conect the process of the perticular task .
+### programing language is a language used to process human intruction in **computer understandable language**  (**English is used for conversation**) like that the programing launguage is use to conect the process of the perticular task .
 
 
 
