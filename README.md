@@ -5,8 +5,7 @@
 
 c-codes-all of the codes / -notes all of the codes notes 
 
--learning **C** for understaning the paylodes or c codes in cyber security .
-
+-learning **C** for understaning the paylodes or c codes in cyber security.</br>
 -used for hardware programingh .
 
 
