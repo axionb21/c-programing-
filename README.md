@@ -13,21 +13,19 @@ c-codes-all of the codes / -notes all of the codes notes
 
 # PATH 
 
-- [] C Program Structure
-- [] Variables & Data Types
-- [] Input/Output
-- [] Operators
-- [] Conditional Statements
-- [] Loops
-- [] Arrays & Strings
-- [] Functions
-- [] Pointers
-- [] Structures & Unions
-- [] File Handling
+- [x] C Program Structure
+- [x] Variables & Data Types
+- [x] Input/Output
+- [x] Operators
+- [ ] Conditional Statements
+- [ ] Loops
+- [ ] Arrays & Strings
+- [ ] Functions
+- [ ] Pointers
+- [ ] Structures & Unions
+- [ ] File Handling
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+
 
 
 
