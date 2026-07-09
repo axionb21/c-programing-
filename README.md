@@ -13,17 +13,17 @@ c-codes-all of the codes / -notes all of the codes notes
 
 # PATH 
 
-- C Program Structure
-- Variables & Data Types
-- Input/Output
-- Operators
-- Conditional Statements
-- Loops
-- Arrays & Strings
-- Functions
-- Pointers
-- Structures & Unions
-- File Handling
+- [] C Program Structure
+- [] Variables & Data Types
+- [] Input/Output
+- [] Operators
+- [] Conditional Statements
+- [] Loops
+- [] Arrays & Strings
+- [] Functions
+- [] Pointers
+- [] Structures & Unions
+- [] File Handling
 
 
 
